@@ -1,0 +1,2 @@
+clear @s minecraft:barrier
+replaceitem entity @s container.8 minecraft:barrier{display:{Name:'[{"text":"Skip Turn","italic":false,"color":"red"},{"text":" [Press ","color":"white"},{"keybind":"key.swapOffhand","color":"white"},{"text":"]","color":"white"}]'}}

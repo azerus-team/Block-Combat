@@ -1,0 +1,2 @@
+clear @s nether_star
+replaceitem entity @s container.7 minecraft:nether_star{display:{Name:'["",{"text":"Get Block 🧪1","color":"aqua","italic":false},{"text":" [Press ","color":"white","italic":false},{"keybind":"key.swapOffhand","color":"white","italic":false},{"text":"]","color":"white","italic":false}]',Lore:['[{"text":"You can have only 5 blocks at the same time!","italic":false,"color":"gold"}]']}}
